@@ -1,5 +1,6 @@
-## Hi there 👋
+##⚡
 
+An Electrical Engineering student at the University of Indonesia who is strongly passionate in energy and technology industry. Currently looking for professional experience to develop skills and networking.
 <!--
 **nawkazd/nawkazd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
